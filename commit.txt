@@ -1,0 +1,5 @@
+commit 16460caac6e728cc17a8bc505e3bed835b1cc715
+Author: Salomon Nzo <ik_2dw3@H015110.NET>
+Date:   Tue Sep 10 12:20:24 2019 +0200
+
+    inicial del proyecto
